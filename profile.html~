@@ -155,7 +155,7 @@
 		<div class="panel panel-default">
 			<div class="media">
 				<a class="pull-left" href="#">
-					<img class="thumbnail" src="static/images/user.png" alt="profile picture">
+					<img class="thumbnail" src="static/images/user.PNG" alt="profile picture">
 				</a>
 
 				<div class="media-body">
